@@ -1,0 +1,9 @@
+node_modules/
+.git/
+.wrangler/
+package-lock.json
+*.log
+.vercel
+.env*.local
+outputs/
+*.zip
