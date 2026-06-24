@@ -5,13 +5,15 @@
   "main": "saas-core.js",
   "scripts": {
     "serve": "node dev-server.cjs 4173",
-    "test": "node --test saas-core.test.js"
+    "test": "node --test saas-core.test.js",
+    "render:videos": "node marketing/render-videos.cjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "ffmpeg-static": "^5.2.0",
     "puppeteer": "^24.37.5",
     "sharp": "^0.34.5"
   }

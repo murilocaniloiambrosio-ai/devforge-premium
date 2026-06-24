@@ -13,6 +13,21 @@ A DevForge cria projetos para empresas que precisam vender melhor, automatizar r
 - seguranca, permissoes, logs e backups
 - integracoes com WhatsApp, CRM, pagamentos, ERP, BI e redes sociais
 
+## Links
+
+- Site ao vivo: https://devforge-premium.vercel.app
+- GitHub: https://github.com/murilocaniloiambrosio-ai/devforge-premium
+
+## Videos de lancamento
+
+Os videos verticais para Instagram, TikTok, Facebook Reels e Shorts ficam em:
+
+- `marketing/videos/devforge-crescimento.mp4`
+- `marketing/videos/nao-e-so-site.mp4`
+- `marketing/videos/ia-com-controle.mp4`
+
+O playbook de publicacao fica em `marketing/launch-playbook.md`.
+
 ## Fundador
 
 Murilo Caniloi Ambrosio  
